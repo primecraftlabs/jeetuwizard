@@ -2,9 +2,9 @@
 
 Two homes, each for what it's good at.
 
-| | GitHub repo (`jeetuwizard/context`, private) | Google Drive folder |
+| | GitHub repo (`primecraftlabs/jeetuwizard`, private) | Google Drive folder |
 |---|---|---|
-| Link | github.com/jeetuwizard/context | [Jeetu Wizard Drive](https://drive.google.com/drive/u/1/folders/1BM1HMgl6o5xHGDHBY0xgfZjO-TuD4z9a) |
+| Link | https://github.com/primecraftlabs/jeetuwizard (was `jeetuwizard/context`; account and repo renamed, old URLs redirect) | [Jeetu Wizard Drive](https://drive.google.com/drive/u/1/folders/1BM1HMgl6o5xHGDHBY0xgfZjO-TuD4z9a) |
 | Holds | Context docs, decisions, checklists, texts, design sources, final brand PNGs, scripts, Claude skills | Videos and anything large: raw stream recordings, clips, finished reels, thumbnails, screenshots |
 | Why | Small text files, full history, Claude reads it directly | Git is bad at big video files; Drive is easy to share with teammates and open on phones |
 | Who edits | Claude (through Claude Code) and Jitender | Whole team uploads |
